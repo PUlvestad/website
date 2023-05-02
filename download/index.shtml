@@ -112,6 +112,7 @@
     <p>For more information on the release contents, please see the
     <a href="../releasenotes/jmri5.2.shtml">release note</a>.
     </p>
+    <p>This release requires Java 11 to work. See <a href="http://jmri.org/java">our page on downloading and installing Java 11</a></p>
     <p>These files can be used for either a new installation or updating an existing installation.</p>
     <p>We recommend that you verify the downloaded files using the provided sha256 key.</p>
     <p>
